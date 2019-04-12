@@ -20,6 +20,13 @@
 
 -------
 
+#### 2019 年 04 月 12 日
+  - 马云谈 996 (12*12)
+    - <https://www.v2ex.com/t/554457#reply172>
+    - <https://www.v2ex.com/t/554556#reply18>
+  - 百度输入法诈尸更新
+    - TODO
+
 #### 2019 年 04 月 11 日
   - Teamviewer 服务器爆炸 
     - <https://www.v2ex.com/t/554121>
@@ -32,3 +39,7 @@
     - <https://weibo.com/3937348351/Hp8sp9JzQ?refer_flag=1001030103_>
     - <https://www.ithome.com/0/418/682.htm>
     - <https://m.qiangttapp.com/news/1/20715950>
+    - 视觉中国碰瓷现场：<https://www.v2ex.com/t/465854?p=1>
+    - 后续：网信办连夜约谈视觉中国存在的违法行为 责令进行全面整改 
+      - <https://www.landiannews.com/archives/57515.html>
+      - [天津网信办 微信公号](https://mp.weixin.qq.com/s?__biz=MzIzMDE3MzQ4Mg==&mid=2657103053&idx=1&sn=ada810cbfd0dd8b1021dd40adbcb0b3a&chksm=f323f288c4547b9ebb6ff394af00e06d96d393ab2c6346f644658cc18c95dabf6c57ccd2f32a&mpshare=1&scene=1&srcid=0412Q9qNjlhMSU2Nzd1LJnaL&key=dfa272eedd3cde296b22df0edf9e9a00e5d1d04daa768b7942fb68a2f4ec6b1831742e7e827d811636c8c5d2ab1c9d204a81f9088378a87d4d7a9a1941c0be5087df6a57c47c0cf8283c3b46764e982d&ascene=1&uin=MzEzNjY1MTI2OQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=Odo5PYM%2B7mPYDwLJmrh2vyhbooWTFOqpXWTWXw3pnjOZAji%2FXMeKy%2FPksROlrlI0)
