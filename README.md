@@ -24,8 +24,13 @@
   - 马云谈 996 (12*12)
     - <https://www.v2ex.com/t/554457#reply172>
     - <https://www.v2ex.com/t/554556#reply18>
-  - 百度输入法诈尸更新
-    - TODO
+  - 百度输入法 PC 版诈尸更新
+    - <https://www.v2ex.com/t/554344#reply49>
+    - <https://shurufa.baidu.com/update>
+    - 国内输入法收集用户信息的旧锅又被翻出来了：<https://www.landiannews.com/archives/22118.html>
+  - 《微信墙中墙——谈谈微信的邪恶价值观》文章发布 引起热议
+    - <https://www.v2ex.com/t/554454#reply143>
+    - <https://www.darmau.com/inside-wechat-wall/>
 
 #### 2019 年 04 月 11 日
   - Teamviewer 服务器爆炸 
