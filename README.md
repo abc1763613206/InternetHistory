@@ -23,8 +23,15 @@
   - [马云谈 996](#2019-%E5%B9%B4-04-%E6%9C%88-12-%E6%97%A5) 在知乎等平台引起热议，大牛张佳玮写长文分析抨击
     - 知乎原回答 <https://www.zhihu.com/question/319774219/answer/649392437>    
     - V2EX讨论 <https://www.v2ex.com/t/554757#reply46>
-    
-
+  - （今日份的沙雕）央视曝《我的世界》存色情交友内容 运营商致歉并整改
+    - SteamCN 讨论 <https://steamcn.com/t480851-1-1>   
+    - 相关视频 <http://video.sina.com.cn/p/news/2019-04-13/detail-ihvhiqax2260924.d.html>
+    - 相关新闻 <https://tech.sina.com.cn/i/2019-04-12/doc-ihvhiqax2156244.shtml>
+    - 网易运营团队致歉 <http://mc.163.com/news/update/20190412/29176_808673.html>
+  - 简书被要求整改
+    - 官方公告 <https://www.jianshu.com/p/8718d4a67ef7>
+    - V2EX 讨论 <https://www.v2ex.com/t/554791#reply27>
+    - 相关新闻 <https://tech.sina.com.cn/i/2019-04-13/doc-ihvhiqax2241060.shtml>
 #### 2019 年 04 月 12 日
   - 马云谈 996 (12*12)
     - <https://www.v2ex.com/t/554457#reply172>
