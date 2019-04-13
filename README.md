@@ -32,6 +32,10 @@
     - 官方公告 <https://www.jianshu.com/p/8718d4a67ef7>
     - V2EX 讨论 <https://www.v2ex.com/t/554791#reply27>
     - 相关新闻 <https://tech.sina.com.cn/i/2019-04-13/doc-ihvhiqax2241060.shtml>
+  - 人民网：应依法严查视觉中国等“碰瓷式维权”背后的违法行为 @@
+    - 「视觉中国等涉案的有关公司，均不是国家依法批准设立的著作权集体管理组织，属于未经批准，“擅自从事著作权集体管理活动”，有关执法机关应当予以查处。」   
+    - <https://www.sohu.com/a/307638443_119038>
+    - <https://www.v2ex.com/t/554800#reply49>
 #### 2019 年 04 月 12 日
   - 马云谈 996 (12*12)
     - <https://www.v2ex.com/t/554457#reply172>
