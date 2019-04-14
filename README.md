@@ -53,6 +53,7 @@
     - <https://www.v2ex.com/t/554121>
     - <https://twitter.com/TeamViewer/status/1116242817515388928>
   - 视觉中国  <vcg.com>  被共青团中央点名批评，同日域名被 `clientHold`
+    - <https://weibo.com/3937348351/Hp8sp9JzQ>
     - <https://www.v2ex.com/t/554211#reply15>
     - <https://www.v2ex.com/t/554223#reply9>
     - <https://www.v2ex.com/t/554225#reply6>
