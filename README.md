@@ -19,6 +19,16 @@
 感谢！     
 
 -------
+
+#### 2019 年 04 月 14 日
+  - OpenAI 2:0 击败 Dota2 TI8 冠军 OG ，并将于 太平洋时间4月18号下午六点 开放对战
+    - 机器之心报道 <https://www.jiqizhixin.com/articles/2019-04-14 >
+    - 对战报名地址 <https://arena.openai.com/#/register>
+    - SteamCN 相关讨论
+      - <https://steamcn.com/t481074-1-1>
+      - <https://steamcn.com/t481025-1-1>
+      - <https://steamcn.com/t481009-1-1>
+
 #### 2019 年 04 月 13 日
   - [马云谈 996](#2019-%E5%B9%B4-04-%E6%9C%88-12-%E6%97%A5) 在知乎等平台引起热议，大牛张佳玮写长文分析抨击
     - 知乎原回答 <https://www.zhihu.com/question/319774219/answer/649392437>    
