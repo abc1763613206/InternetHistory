@@ -20,6 +20,18 @@
 
 -------
 
+#### 2019 年 04 月 17 日
+  - Uplay 商城《刺客信条:大革命》免费送 ， 50 万欧助圣母院重建
+    - 相关报道 
+      - <https://www.sohu.com/a/308625904_114760>
+      - <https://www.tgbus.com/news/40821>
+    - 领取地址 <https://store.ubi.com/cn/%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1%EF%BC%9A%E5%A4%A7%E9%9D%A9%E5%91%BD/56c4947a88a7e300458b45d6.html>
+    - SteamCN 讨论 <https://steamcn.com/t481921-1-1>
+    
+    
+    - 巴黎圣母院火灾相关
+      - 为巴黎圣母院痛惜前,先来了解它过去有多坚强 <https://news.163.com/19/0417/11/ECV918CP000187UE.html>
+      - TODO
 #### 2019 年 04 月 14 日
   - OpenAI 2:0 击败 Dota2 TI8 冠军 OG ，并将于 太平洋时间4月18号下午六点 开放对战
     - 机器之心报道 <https://www.jiqizhixin.com/articles/2019-04-14 >
