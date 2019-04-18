@@ -19,9 +19,14 @@
 感谢！     
 
 -------
+#### 2019 年 04 月 18 日
+  - 百度关联 App 公司 DU Group 多款热门安卓应用存在滥用许可和广告欺诈，现已被谷歌拉黑 
+    - 新浪科技 <https://tech.sina.com.cn/i/2019-04-18/doc-ihvhiewr6822476.shtml>
+    - 蓝点网 <https://www.landiannews.com/archives/57726.html>
+
 
 #### 2019 年 04 月 17 日
-  - Uplay 商城《刺客信条:大革命》免费送 ， 50 万欧助圣母院重建
+  - Uplay 商城《刺客信条:大革命》免费送 50 万欧助圣母院重建
     - 相关报道 
       - <https://www.sohu.com/a/308625904_114760>
       - <https://www.tgbus.com/news/40821>
